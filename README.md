@@ -12,16 +12,16 @@ The raw dataset underwent meticulous data cleaning procedures, including:
 ## Analysis
 Key insights were derived through the utilization of Pivot Tables, facilitating the summarization and aggregation of pertinent data. This included but was not limited to:
 
-* Analysis of accident frequencies by hour, day, and month.
-* Examination of casualty demographics, such as age groups and gender.
+* Analysis of accident frequencies by hour month and year.
+* Examination of casualty demographics, such as road syrface, road type, weather conditions.
 * Identification of high-risk zones and contributing factors.
 ## Dashboard Creation
 An interactive dashboard was meticulously crafted using Pivot Tables, Power Pivot, and intuitive filtering mechanisms. This dashboard offers stakeholders a comprehensive overview of the dataset, enabling dynamic exploration of trends and patterns. Key features include:
 
 * Dynamic filtering options for customized data visualization.
 * Visual representations of accident trends over time.
-Drill-down capabilities to delve deeper into specific segments of interest.
-Conclusion
+* Drill-down capabilities to delve deeper into specific segments of interest.
+## Conclusion
 This report and accompanying dashboard serve as valuable resources for stakeholders involved in road safety initiatives and policymaking. By leveraging the insights gleaned from this analysis, informed decisions can be made to mitigate road accidents and enhance public safety.
 
-For further details and interactive exploration, please refer to the attached Excel file.
+For further details and interactive exploration, please refer to the attached Excel file (Road Accident- Dashboard & Data Analysis report).
